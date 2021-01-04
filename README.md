@@ -1,2 +1,2 @@
 # SiteTributoChadwickBoseman
- Desenvolvimento de um site tributo ao ator Chadwick Boseman com htmls, css, javascript e o framework materialize CSS
+ Desenvolvimento de um site tributo ao ator Chadwick Boseman com html e css
